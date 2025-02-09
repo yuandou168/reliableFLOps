@@ -1,0 +1,10 @@
+
+compiler:
+  solc:
+    version: 0.8.17
+    optimize: true
+networks:
+  development:
+    host: http://127.0.0.1
+    port: 8545
+    gas_limit: 12000000

@@ -1,0 +1,4 @@
+web3==6.15.1
+pytest==6.2.5
+pluggy==1.4.0
+eth-brownie==1.20.3
